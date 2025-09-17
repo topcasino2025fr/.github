@@ -1,0 +1,7 @@
+# robots.txt pour topcasino2025fr
+# Fichier pour contrôler l'accès des robots
+
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/topcasino2025fr/sitemap.xml
